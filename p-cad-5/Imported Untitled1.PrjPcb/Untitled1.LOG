@@ -1,0 +1,122 @@
+PCAD Importer Log
+Project : Untitled1.PrjPcb
+
+Section : C:\Users\user\Documents\p-cad-4\Adjustable_power_supply\Untitled1.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 481
+        Warning - 1 : Skipping Token defaultPinDes On Line 482
+        Warning - 1 : Skipping Token defaultPinDes On Line 483
+        Warning - 1 : Skipping Token defaultPinDes On Line 765
+        Warning - 1 : Skipping Token defaultPinDes On Line 766
+        Warning - 1 : Skipping Token defaultPinDes On Line 835
+        Warning - 1 : Skipping Token defaultPinDes On Line 836
+        Warning - 1 : Skipping Token defaultPinDes On Line 879
+        Warning - 1 : Skipping Token defaultPinDes On Line 880
+        Warning - 1 : Skipping Token defaultPinDes On Line 1025
+        Warning - 1 : Skipping Token defaultPinDes On Line 1026
+        Warning - 1 : Skipping Token defaultPinDes On Line 1027
+        Warning - 1 : Skipping Token defaultPinDes On Line 1028
+        Warning - 1 : Skipping Token attachedSymbol On Line 1150
+        Warning - 1 : Skipping Token attachedSymbol On Line 1174
+        Warning - 1 : Skipping Token attachedSymbol On Line 1197
+        Warning - 1 : Skipping Token attachedSymbol On Line 1247
+        Warning - 1 : Skipping Token attachedSymbol On Line 1248
+        Warning - 1 : Skipping Token attachedSymbol On Line 1249
+        Warning - 1 : Skipping Token attachedSymbol On Line 1250
+        Warning - 1 : Skipping Token attachedSymbol On Line 1251
+        Warning - 1 : Skipping Token attachedSymbol On Line 1252
+        Warning - 1 : Skipping Token attachedSymbol On Line 1253
+        Warning - 1 : Skipping Token attachedSymbol On Line 1254
+        Warning - 1 : Skipping Token attachedSymbol On Line 1255
+        Warning - 1 : Skipping Token attachedSymbol On Line 1256
+        Warning - 1 : Skipping Token attachedSymbol On Line 1257
+        Warning - 1 : Skipping Token attachedSymbol On Line 1258
+        Warning - 1 : Skipping Token attachedSymbol On Line 1259
+        Warning - 1 : Skipping Token attachedSymbol On Line 1260
+        Warning - 1 : Skipping Token attachedSymbol On Line 1261
+        Warning - 1 : Skipping Token attachedSymbol On Line 1262
+        Warning - 1 : Skipping Token attachedSymbol On Line 1263
+        Warning - 1 : Skipping Token attachedSymbol On Line 1264
+        Warning - 1 : Skipping Token attachedSymbol On Line 1265
+        Warning - 1 : Skipping Token attachedSymbol On Line 1266
+        Warning - 1 : Skipping Token attachedSymbol On Line 1267
+        Warning - 1 : Skipping Token attachedSymbol On Line 1268
+        Warning - 1 : Skipping Token attachedSymbol On Line 1269
+        Warning - 1 : Skipping Token attachedSymbol On Line 1270
+        Warning - 1 : Skipping Token attachedSymbol On Line 1271
+        Warning - 1 : Skipping Token attachedSymbol On Line 1272
+        Warning - 1 : Skipping Token attachedSymbol On Line 1273
+        Warning - 1 : Skipping Token attachedSymbol On Line 1274
+        Warning - 1 : Skipping Token attachedSymbol On Line 1275
+        Warning - 1 : Skipping Token attachedSymbol On Line 1276
+        Warning - 1 : Skipping Token attachedSymbol On Line 1324
+        Warning - 1 : Skipping Token attachedSymbol On Line 1344
+        Warning - 1 : Skipping Token attachedSymbol On Line 1364
+        Warning - 1 : Skipping Token attachedSymbol On Line 1385
+        Warning - 1 : Skipping Token attachedSymbol On Line 1406
+        Warning - 1 : Skipping Token attachedSymbol On Line 1428
+        Warning - 1 : Skipping Token attachedSymbol On Line 1450
+        Warning - 1 : Skipping Token attachedSymbol On Line 1472
+        Warning - 1 : Skipping Token attachedSymbol On Line 1494
+        Warning - 1 : Skipping Token refPointSize On Line 1690
+        Warning - 1 : Skipping Token infoPointSize On Line 1691
+        Warning - 1 : Skipping Token gluePointSize On Line 1692
+        Warning - 1 : Skipping Token pickPointSize On Line 1693
+        Warning - 1 : Skipping Token testPointSize On Line 1694
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1695
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1696
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 1697
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 1698
+        Warning - 1 : Skipping Token testPointSizePrint On Line 1699
+        Warning - 1 : Skipping Token solderFlowDirection On Line 1700
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 1701
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 1702
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 1703
+        Warning - 1 : Skipping Token K5035-3R On Line 1784
+        Warning - 1 : Skipping Token K5035-3R On Line 1784
+        Warning - 1 : Skipping Token K5035-3R1 On Line 1791
+        Warning - 1 : Skipping Token K5035-3R1 On Line 1791
+        Warning - 1 : Skipping Token KR142EN-A On Line 1808
+        Warning - 1 : Skipping Token KR142EN-A On Line 1808
+        Warning - 1 : Skipping Token KR142EN-R On Line 1814
+        Warning - 1 : Skipping Token KR142EN-R On Line 1814
+        Warning - 1 : Skipping Token 12.5mm On Line 1829
+        Warning - 1 : Skipping Token 12.5mm On Line 1829
+        Warning - 1 : Skipping Token 15mm On Line 1835
+        Warning - 1 : Skipping Token 15mm On Line 1835
+        Warning - 1 : Skipping Token 2.5mm_v On Line 1841
+        Warning - 1 : Skipping Token 2.5mm_v On Line 1841
+        Warning - 1 : Skipping Token 5mm_v1 On Line 1847
+        Warning - 1 : Skipping Token 5mm_v1 On Line 1847
+        Warning - 1 : Skipping Token 5mm_v2 On Line 1853
+        Warning - 1 : Skipping Token 5mm_v2 On Line 1853
+        Warning - 1 : Skipping Token 7.5mm On Line 1859
+        Warning - 1 : Skipping Token 7.5mm On Line 1859
+        Warning - 1 : Skipping Token 12.5mm On Line 1874
+        Warning - 1 : Skipping Token 12.5mm On Line 1874
+        Warning - 1 : Skipping Token 15mm On Line 1880
+        Warning - 1 : Skipping Token 15mm On Line 1880
+        Warning - 1 : Skipping Token 2.5mm_v On Line 1886
+        Warning - 1 : Skipping Token 2.5mm_v On Line 1886
+        Warning - 1 : Skipping Token 5mm_v1 On Line 1892
+        Warning - 1 : Skipping Token 5mm_v1 On Line 1892
+        Warning - 1 : Skipping Token 5mm_v2 On Line 1898
+        Warning - 1 : Skipping Token 5mm_v2 On Line 1898
+        Warning - 1 : Skipping Token 7.5mm On Line 1904
+        Warning - 1 : Skipping Token 7.5mm On Line 1904
+        Warning - 1 : Skipping Token drillSymSettings On Line 2091
+        Warning - 1 : Skipping Token gerberSettings On Line 2093
+        Warning - 1 : Skipping Token ncDrillSettings On Line 2107
+        Warning - 1 : Skipping Token programState On Line 2116
+        Warning - 1 : Skipping Token displayDrawOrder On Line 2157
+        Warning - 1 : Skipping Token reportSettings On Line 2380
+        Warning - 1 : Skipping Token odbSettings On Line 3077
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [K5035-3][Primary] associated with PCAD Component [K5035-10] has been renamed to PCB FootPrint [K5035-3_Primary].
+        Warning - 0 : PCAD Pattern Graphics [KR142EN][Primary] associated with PCAD Component [йп142емB] has been renamed to PCB FootPrint [KR142EN_йп142емB(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(Primary)].
+    EndSection
+EndSection
