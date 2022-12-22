@@ -1,0 +1,45 @@
+PCAD Importer Log
+Project : Adjustable power supply.PrjPcb
+
+Section : C:\Users\user\Documents\p-cad-3\Adjustable power supply\Adjustable power supply.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 177
+        Warning - 1 : Skipping Token defaultPinDes On Line 185
+        Warning - 1 : Skipping Token defaultPinDes On Line 201
+        Warning - 1 : Skipping Token defaultPinDes On Line 209
+        Warning - 1 : Skipping Token defaultPinDes On Line 275
+        Warning - 1 : Skipping Token defaultPinDes On Line 282
+        Warning - 1 : Skipping Token defaultPinDes On Line 289
+        Warning - 1 : Skipping Token defaultPinDes On Line 296
+        Warning - 1 : Skipping Token defaultPinDes On Line 344
+        Warning - 1 : Skipping Token defaultPinDes On Line 352
+        Warning - 1 : Skipping Token defaultPinDes On Line 459
+        Warning - 1 : Skipping Token defaultPinDes On Line 467
+        Warning - 1 : Skipping Token defaultPinDes On Line 475
+        Warning - 1 : Skipping Token defaultPinDes On Line 522
+        Warning - 1 : Skipping Token defaultPinDes On Line 529
+        Warning - 1 : Skipping Token defaultPinDes On Line 536
+        Warning - 1 : Skipping Token gridDfns On Line 1071
+        Warning - 1 : Skipping Token refPointSize On Line 1077
+        Warning - 1 : Skipping Token infoPointSize On Line 1078
+        Warning - 1 : Skipping Token junctionSize On Line 1079
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1080
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1081
+        Warning - 1 : Skipping Token junctionSizePrint On Line 1082
+        Warning - 1 : Skipping Token PrintRegion On Line 1239
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1241
+        Warning - 1 : Skipping Token ecoState On Line 1256
+        Warning - 1 : Skipping Token currentTextStyle On Line 1257
+        Warning - 1 : Skipping Token reportSettings On Line 1260
+    EndSection
+
+    Section : Generating SCH Library - Adjustable power supply.SchLib
+        Warning : Create component variant [30FMN_VARIANT_1] for component with original name [30FMN]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection
